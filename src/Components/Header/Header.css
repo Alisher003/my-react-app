@@ -1,0 +1,41 @@
+.container {
+    width: 1260px;
+    margin: 0 auto;
+    padding: 40px 108px;
+  }
+
+.btn-nav {
+    border: 2px solid #717CFF;
+    border-radius: 11px;
+    width: 111px;
+    height: 42px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-nav {
+    margin-top: 10px;
+    display: flex;
+    list-style: none;
+}
+
+.site-nav__item {
+    margin-left: 72px;
+}
+
+.site-nav-link {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #373737;
+}
+
+.btn-nav__link {
+    text-decoration: none;
+}
