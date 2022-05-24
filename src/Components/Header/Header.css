@@ -1,7 +1,7 @@
 .container {
     width: 1260px;
     margin: 0 auto;
-    padding: 40px 108px;
+    padding: 0  108px 0 108px;
   }
 
 .btn-nav {
@@ -9,9 +9,16 @@
     border-radius: 11px;
     width: 111px;
     height: 42px;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-nav:hover {
+    opacity: 0.8;
 }
 
 .header-content {
+    margin-top: 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -34,6 +41,15 @@
     font-size: 17px;
     line-height: 20px;
     color: #373737;
+}
+
+.site-nav-link:hover {
+    opacity: 0.8;
+}
+
+.site-nav-link:active {
+    opacity: 0.6;
+    color: #717CFF;
 }
 
 .btn-nav__link {

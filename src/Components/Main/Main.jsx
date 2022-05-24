@@ -27,10 +27,10 @@ function Main() {
 				</div>
 			</div>
 			{/* Unversities */}
-			<section className='unverties'>
+			<section className='unversities'>
 			<div className="container">
-				<h2>Featured Universities</h2>
-				<img src={universityies} alt="" />
+				<h2 className='unversities__heading'>Featured Universities</h2>
+				<img className='unversities__img' src={universityies} alt="" />
 			</div>
 			</section>
 		</main>

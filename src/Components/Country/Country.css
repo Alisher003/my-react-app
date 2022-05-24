@@ -1,0 +1,153 @@
+.country {
+    background: #FAFAFA;
+    padding-bottom: 140px;
+}
+
+.country-top {
+    width: 900px;
+    height: 170px;
+    padding-left: 30px;
+}
+
+.country__heading {
+    padding-bottom: 10px;
+    margin: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 54px;
+    text-align: center;
+    color: #373737;
+}
+
+.country__text {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 38px;
+    text-align: center;
+    color: #7D7D7D;
+}
+
+.country-hero {
+    padding: 0;
+    margin: 0;
+}
+
+.conutry-hero-list {
+    padding: 0 80px;
+    margin-top: 30px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.country-hero-list__item {
+    margin: 20px;
+}
+
+.country-hero-list__item__img {
+    width: 340px;
+    height: 215px;
+}
+
+.country-hero-list__item__heading {
+    width: 184px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 29px;
+    color: #37474F;
+}
+
+.country-hero-list__item__text {
+    width: 348px;
+    height: 59px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: rgba(55, 71, 79, 0.721569);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .country-top {
+    width: 969px;
+    height: 160px;
+}
+
+.country__heading {
+    padding: 0;
+    margin: 0;
+    height: 54px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #373737;
+}
+
+.country__text {
+    height: 80px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 38px;
+    text-align: center;
+    color: #7D7D7D;
+}
+
+.conutry-hero-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.country-herop-list__item {
+    margin: 0 23px;
+    padding: 0;
+    background: #FAFAFA;
+}
+
+.country-hero-list__item__heading {
+    width: 184px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 29px;
+    color: #37474F;
+}
+
+.country-hero-list__item__text {
+    width: 348px;
+    height: 59px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: rgba(55, 71, 79, 0.721569);
+} */

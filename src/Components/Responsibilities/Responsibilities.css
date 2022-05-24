@@ -1,0 +1,116 @@
+.responsibilities {
+    background: #F2F2F2;
+}
+
+.responsibilities-content {
+    padding: 90px 0;
+    padding-left: 30px;
+}
+
+.responsiblities-top__heading {
+    padding: 0;
+    margin: 0;
+    height: 54px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 54px;
+    text-align: center;
+    color: #373737;
+}
+
+.responsiblities-top__text {
+    width: 800px;
+    height: 80px;
+    margin-left: 180px;
+    padding: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #7D7D7D;
+}
+
+.responsibilities-list {
+    padding-top: 140px;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+.responsibilities-list__item {
+    padding: 20px;
+    width: 540px;
+    height: 308px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 77px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    margin: 0 27px;
+}
+
+.responsibilities-list__nav {
+    display: flex;
+}
+
+.responsibilities-list__heading {
+    width: 350px;
+    height: 76px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #37474F;
+    padding-left: 12px;
+    margin: 0;
+}
+
+.responsibilities-list__img {
+    width: 75px;
+    height: 75px;
+    padding: 0;
+    margin: 0;
+}
+
+.responsibilities-list__text {
+    width: 481.35px;
+    height: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: rgba(55, 71, 79, 0.721569);
+}
+
+.responsibilities-list__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.responsibilities-list__footer__element {
+    width: 155px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: right;
+    letter-spacing: 0.444444px;
+    color: #373737;
+}
+
+.responsibilities-list__footer__link {
+    text-decoration: none;
+    width: 92px;
+    height: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    color: #717CFF;
+}

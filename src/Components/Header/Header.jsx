@@ -4,7 +4,7 @@ import logoImage from '../../Assets/Images/logo.svg';
 
 function Header() {
 	return (
-		<header className='header'>
+		<header id='home' className='header'>
 			<div className="header-content container">
 			<a href="header-logo__link">
 			<img className='logo-img'
@@ -16,16 +16,16 @@ function Header() {
 			</a>
 			<nav className='site-nav'>
 				<li className='site-nav__item'>
-					<a className='site-nav-link' href="#">Home</a>
+					<a className='site-nav-link' href="#home">Home</a>
 				</li>
 				<li className='site-nav__item'>
 					<a className='site-nav-link' href="#">About Us</a>
 				</li>
 				<li className='site-nav__item'>
-					<a className='site-nav-link' href="#">Our Services</a>
+					<a className='site-nav-link' href="#Our-Services">Our Services</a>
 				</li>
 				<li className='site-nav__item'>
-					<a className='site-nav-link' href="#">Responsibilities</a>
+					<a className='site-nav-link' href="#responsibilities">Responsibilities</a>
 				</li>
 				<li className='site-nav__item'>
 					<a className='site-nav-link' href="#">Country</a>

@@ -1,8 +1,12 @@
 import './App.css';
 
 import Header from './Components/Header/Header';
-import Footer from './Components/Footer/Footer';
 import Main from './Components/Main/Main';
+import Services from './Components/Services/Services';
+import News from './Components/News/News';
+import Responsibilities from './Components/Responsibilities/Responsibilities';
+import Country from './Components/Country/Country';
+import Footer from './Components/Footer/Footer';
 
 // JSX  - JS with HTML
 // class -> className
@@ -14,6 +18,10 @@ function App() {
 		<>
 			<Header />
 			<Main />
+			<Services />
+			<News />
+			<Responsibilities />
+			<Country />
 			<Footer />
 		</>
 	);
